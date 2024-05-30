@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi :partying_face: My name is Emma
+Aspiring Data Analyst
 
-<!--
-**EmmaKaas/EmmaKaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 
 
-Here are some ideas to get you started:
+I'm an aspiring data analyst with a passion for storytelling. 📖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My skill set includes proficiency in SQL, Python, Excel, Tableau, and Power BI. 
+
+
+# 🚀 Skills and Tools
+
+• SQL: Querying databases, data manipulation, and optimization. 🕸️
+
+• Python: Data analysis with libraries such as Pandas. 🐍
+
+• Excel: Advanced functions, pivot tables, data visualization. 🤖
+
+• Tableau: Creating interactive dashboards and visualizations. 🌻
+
+• Power BI: Building detailed reports and dashboard. 🦐
