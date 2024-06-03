@@ -8,7 +8,7 @@ I'm an aspiring data analyst with a passion for storytelling. 📖
 My skill set includes proficiency in SQL, Python, Excel, Tableau, and Power BI. 
 
 
-# 🚀 Skills and Tools
+# 🚀 Skills and Tools  🚀
 
 • SQL: Querying databases, data manipulation, and optimization. 🕸️
 
@@ -19,3 +19,11 @@ My skill set includes proficiency in SQL, Python, Excel, Tableau, and Power BI.
 • Tableau: Creating interactive dashboards and visualizations. 🌻
 
 • Power BI: Building detailed reports and dashboard. 🦐
+
+# 🔆Some examples of my work 🔆
+
+Power BI:
+![image](https://github.com/EmmaKaas/EmmaKaas/assets/168829759/e1261748-1ad6-45ad-a782-e235c0750187)
+
+Tableau:
+![image](https://github.com/EmmaKaas/EmmaKaas/assets/168829759/194a12ca-1fe6-4d2e-a067-d5dfecad76c9)
