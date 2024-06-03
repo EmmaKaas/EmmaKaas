@@ -22,7 +22,7 @@ My skill set includes proficiency in SQL, Python, Excel, Tableau, and Power BI.
 
 # 🔆Some examples of my work 🔆
 
-Power BI:
+Power BI (Exploring Hollywood's most Profitable Stories in R and Power BI):
 ![image](https://github.com/EmmaKaas/EmmaKaas/assets/168829759/e1261748-1ad6-45ad-a782-e235c0750187)
 
 Tableau:
