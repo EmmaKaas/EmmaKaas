@@ -25,6 +25,6 @@ My skill set includes proficiency in SQL, Python, Excel, Tableau, and Power BI.
 Power BI (Exploring Hollywood's most Profitable Stories in R and Power BI):
 ![image](https://github.com/EmmaKaas/EmmaKaas/assets/168829759/e1261748-1ad6-45ad-a782-e235c0750187)
 
-Tableau:
+Tableau (Exploring Carbon Emissions by London Borough dataset in Tableau):
 ![image](https://github.com/EmmaKaas/EmmaKaas/assets/168829759/ca15cf5e-783e-4caf-bcd8-a6be0e9d8d33)
 
